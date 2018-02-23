@@ -8,4 +8,5 @@
 
     <string name="automobilista_text">Automobilista</string>
     <string name="distributore_text">Distributore</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
